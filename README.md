@@ -1,4 +1,4 @@
-![Workflow badge](https://github.com/a-samarin/hexlet-ci-app/actions/workflows/ci-app.yml/badgw.svg)
+![Workflow badge](https://github.com/a-samarin/hexlet-ci-app/actions/workflows/ci-app.yml/badge.svg)
 
 # Example app for CI Hexlet course
 
