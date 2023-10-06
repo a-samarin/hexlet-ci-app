@@ -22,6 +22,6 @@ jobs:
           cache: 'npm'
 
       - run: make setup
-      - run: make start
+#      - run: make start
       - run: make test
       - run: make lint
